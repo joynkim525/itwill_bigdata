@@ -1,3 +1,5 @@
+# table and index
+
 SELECT rowid, employee_id
 FROM employees;
 -- rowid of employee_id = 100: 'AAAEAbAAEAAAADNAAA'
