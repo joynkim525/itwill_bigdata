@@ -21,3 +21,5 @@ SELECT * FROM user_objects WHERE object_name = 'EMPLOYEES';
 
 SELECT * FROM user_indexes WHERE table_name = 'EMPLOYEES';
 -- STATUS UNUSABLE
+
+ALTER INDEX EMP_EMP_ID_PK REBUILD;
