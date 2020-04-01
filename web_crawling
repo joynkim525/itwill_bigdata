@@ -1,0 +1,25 @@
+# packages
+
+-- related to selenium
+selenium.webdriver
+time 
+
+-- related to read html
+urllib.request
+urllib.request.urlopen
+bs4.BeautifulSoup
+
+json
+fake_useragent.Useragent
+
+-- related to text_mining
+re
+
+--related to WordCloud
+matplotlib.pylab
+matplotlib.fontmanager
+matplotlib.rc
+
+wordcloud.WordCloud
+wordcloud.STOPWORDS
+imageio
